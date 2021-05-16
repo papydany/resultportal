@@ -1,0 +1,8 @@
+[15-Mar-2019 08:45:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tddcscho_rtddcscho_resulttddcscho_resultoot'@'localhost' (using password: YES) in /home/tddcscho/public_html/resultportal/function/connect.php on line 19
+[15-Mar-2019 08:45:42 UTC] PHP Fatal error:   in /home/tddcscho/public_html/resultportal/function/connect.php on line 21
+[15-Mar-2019 08:45:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tddcscho_rtddcscho_resulttddcscho_resultoot'@'localhost' (using password: YES) in /home/tddcscho/public_html/resultportal/function/connect.php on line 19
+[15-Mar-2019 08:45:57 UTC] PHP Fatal error:   in /home/tddcscho/public_html/resultportal/function/connect.php on line 21
+[15-Mar-2019 09:09:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tddcscho_rtddcscho_resulttddcscho_resultoot'@'localhost' (using password: YES) in /home/tddcscho/public_html/resultportal/function/connect.php on line 19
+[15-Mar-2019 09:09:12 UTC] PHP Fatal error:   in /home/tddcscho/public_html/resultportal/function/connect.php on line 21
+[19-Apr-2019 07:39:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/tddcscho/public_html/resultportal/cpanel/createteacher.php on line 41
+[24-Apr-2019 09:41:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/tddcscho/public_html/resultportal/cpanel/createteacher.php on line 41
